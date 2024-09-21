@@ -1,0 +1,149 @@
+Name,Position,Outcome,Situation,Player Coordinates,Body Part,Shot Location,Shot Coordinates,Expected Goal (xG),Expected Goal on Target (xGOT),Match
+Lionel Messi,F,save,free-kick,"{'x': 23.5, 'y': 57.3, 'z': 0}",left-foot,high-right,"{'x': 0, 'y': 47.2, 'z': 24.7}",0.071207240223885,0.2324,Match 1
+Jacob Shaffelburg,M,save,set-piece,"{'x': 23.3, 'y': 68.7, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 48.9, 'z': 2.5}",0.02318424358964,0.0416,Match 1
+Lautaro Martínez,F,goal,assisted,"{'x': 11.1, 'y': 57.1, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49, 'z': 3.8}",0.59408378601074,0.6147,Match 1
+Nicolás Otamendi,D,miss,set-piece,"{'x': 3.3, 'y': 49.8, 'z': 0}",left-foot,high,"{'x': 0, 'y': 50.4, 'z': 62.5}",0.3458157479763,0.0,Match 1
+Lautaro Martínez,F,save,assisted,"{'x': 15.7, 'y': 43.2, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.7, 'z': 1.9}",0.40123456716537,0.1469,Match 1
+Nicolás Otamendi,D,miss,set-piece,"{'x': 9.4, 'y': 46.6, 'z': 0}",head,right,"{'x': 0, 'y': 39.7, 'z': 8.3}",0.22089906036854,0.0,Match 1
+Lionel Messi,F,miss,fast-break,"{'x': 13.8, 'y': 56.4, 'z': 0}",left-foot,close-left,"{'x': 0, 'y': 57.8, 'z': 2.8}",0.16925835609436,0.0,Match 1
+Giovani Lo Celso,M,block,assisted,"{'x': 13.3, 'y': 60.8, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 51, 'z': 19}",0.052211776375771,0.0,Match 1
+Alphonso Davies,D,miss,assisted,"{'x': 12.8, 'y': 32.4, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 39.3, 'z': 43.1}",0.02470001578331,0.0,Match 1
+Jonathan David,F,miss,corner,"{'x': 5.8, 'y': 53.8, 'z': 0}",head,close-high,"{'x': 0, 'y': 55.1, 'z': 50}",0.34666001796722,0.0,Match 1
+Lionel Messi,F,save,fast-break,"{'x': 12.5, 'y': 45, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 50.1, 'z': 19}",0.21130663156509,0.0,Match 1
+Lionel Messi,F,save,fast-break,"{'x': 13.5, 'y': 34.9, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47, 'z': 1.9}",0.15827170014381,0.3815,Match 1
+Ángel Di María,M,miss,assisted,"{'x': 21.9, 'y': 69.1, 'z': 0}",left-foot,high,"{'x': 0, 'y': 48.9, 'z': 73.6}",0.038445826619864,0.0,Match 1
+Julián Álvarez,F,save,regular,"{'x': 13.9, 'y': 46.8, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 47.8, 'z': 1.3}",0.077969014644623,0.1577,Match 1
+Julián Álvarez,F,goal,assisted,"{'x': 4.1, 'y': 62.3, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 47.3, 'z': 8.9}",0.27661961317062,0.5067,Match 1
+Julián Álvarez,F,miss,assisted,"{'x': 8.5, 'y': 25.7, 'z': 0}",left-foot,close-left,"{'x': 0, 'y': 58.7, 'z': 6.9}",0.044879581779242,0.0,Match 1
+Lionel Messi,F,miss,assisted,"{'x': 22.5, 'y': 67.1, 'z': 0}",left-foot,high,"{'x': 0, 'y': 55.5, 'z': 65.3}",0.021562745794654,0.0,Match 1
+Alphonso Davies,D,miss,regular,"{'x': 10.1, 'y': 42.8, 'z': 0}",right-foot,close-high-right,"{'x': 0, 'y': 42.9, 'z': 41.7}",0.10010720044374,0.0,Match 1
+Stephen Eustaquio,M,save,assisted,"{'x': 7.6, 'y': 46.8, 'z': 0}",head,low-centre,"{'x': 0, 'y': 50.3, 'z': 12}",0.21541078388691,0.1114,Match 1
+Alexis Mac Allister,M,save,assisted,"{'x': 10.8, 'y': 54, 'z': 0}",head,low-centre,"{'x': 0, 'y': 51.8, 'z': 8.2}",0.052673436701298,0.0732,Match 1
+Tajon Buchanan,D,miss,regular,"{'x': 7, 'y': 58.7, 'z': 0}",left-foot,close-right,"{'x': 0, 'y': 41.8, 'z': 9.7}",0.20743390917778,0.0,Match 1
+Liam Millar,M,block,set-piece,"{'x': 19.5, 'y': 39.5, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 54.6, 'z': 8.3}",0.049688573926687,0.0,Match 1
+Alphonso Davies,D,block,free-kick,"{'x': 21.1, 'y': 58.1, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.5, 'z': 19}",0.10768911242485,0.0,Match 1
+Lionel Messi,F,block,assisted,"{'x': 8.3, 'y': 67.3, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 52.8, 'z': 19}",0.040608990937471,0.0,Match 1
+Ángel Di María,M,save,fast-break,"{'x': 14.3, 'y': 55.3, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 52.6, 'z': 1.3}",0.23936022818089,0.832,Match 1
+Stephen Eustaquio,M,block,corner,"{'x': 14.5, 'y': 39.9, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.4, 'z': 19}",0.092530801892281,0.0,Match 1
+Leandro Paredes,M,miss,assisted,"{'x': 22.6, 'y': 30.5, 'z': 0}",right-foot,close-high,"{'x': 0, 'y': 46.9, 'z': 54.2}",0.020479122176766,0.0,Match 1
+Marcos Acuña,D,block,assisted,"{'x': 10.2, 'y': 29.4, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 54.4, 'z': 19}",0.020194323733449,0.0,Match 1
+Cyle Larin,F,block,assisted,"{'x': 23.8, 'y': 36.8, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.9, 'z': 19}",0.017662109807134,0.0,Match 1
+Lautaro Martínez,F,save,fast-break,"{'x': 7.6, 'y': 45.2, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.1, 'z': 6.3}",0.39024394750595,0.7554,Match 2
+Lautaro Martínez,F,goal,corner,"{'x': 7.7, 'y': 42.5, 'z': 0}",right-foot,high-left,"{'x': 0, 'y': 52.9, 'z': 24.7}",0.17221066355705,0.6748,Match 2
+Giovani Lo Celso,M,save,corner,"{'x': 2.6, 'y': 51.5, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49, 'z': 5.1}",0.42886832356453,0.9182,Match 2
+Cristian Romero,D,miss,set-piece,"{'x': 6, 'y': 55.6, 'z': 0}",head,high,"{'x': 0, 'y': 51.1, 'z': 87.5}",0.11972958594561,0.0,Match 2
+Lautaro Martínez,F,block,assisted,"{'x': 12.6, 'y': 61.8, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 46.3, 'z': 19}",0.082124449312687,0.0,Match 2
+Marcelino Núñez,M,save,assisted,"{'x': 30, 'y': 54.5, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 52.6, 'z': 11.4}",0.018365511670709,0.0967,Match 2
+Rodrigo Echeverría,M,save,regular,"{'x': 14.1, 'y': 46.8, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.8, 'z': 8.9}",0.069708988070488,0.0194,Match 2
+Rodrigo Echeverría,M,save,regular,"{'x': 21.6, 'y': 49.3, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.8, 'z': 13.9}",0.028919730335474,0.0148,Match 2
+Nicolás González,M,save,assisted,"{'x': 13.3, 'y': 33.1, 'z': 0}",left-foot,high-centre,"{'x': 0, 'y': 51.8, 'z': 27.2}",0.042111773043871,0.1022,Match 2
+Alexis Mac Allister,M,save,set-piece,"{'x': 4.6, 'y': 46.6, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51, 'z': 11.4}",0.64471751451492,0.6081,Match 2
+Lisandro Martínez,D,block,corner,"{'x': 15.1, 'y': 37.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.6, 'z': 19}",0.016800504177809,0.0,Match 2
+Nahuel Molina,D,save,assisted,"{'x': 9.4, 'y': 65.1, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.4, 'z': 17.7}",0.13740421831608,0.0313,Match 2
+Rodrigo de Paul,M,miss,assisted,"{'x': 26.6, 'y': 48.5, 'z': 0}",right-foot,high,"{'x': 0, 'y': 50.3, 'z': 73.6}",0.020482106134295,0.0,Match 2
+Julián Álvarez,F,miss,assisted,"{'x': 20.3, 'y': 35.8, 'z': 0}",left-foot,high,"{'x': 0, 'y': 50.8, 'z': 70.8}",0.041169364005327,0.0,Match 2
+Alexis Mac Allister,M,block,regular,"{'x': 26.8, 'y': 38.3, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.9, 'z': 19}",0.014736067503691,0.0,Match 2
+Alexis Mac Allister,M,miss,corner,"{'x': 4.8, 'y': 40.3, 'z': 0}",head,high-right,"{'x': 0, 'y': 37, 'z': 43.1}",0.050689712166786,0.0,Match 2
+Alexis Mac Allister,M,block,corner,"{'x': 3.5, 'y': 63, 'z': 0}",head,low-centre,"{'x': 0, 'y': 50, 'z': 19}",0.023073958232999,0.0,Match 2
+Lionel Messi,F,post,assisted,"{'x': 30.1, 'y': 54.8, 'z': 0}",left-foot,right,"{'x': 0, 'y': 44.8, 'z': 4.4}",0.018365511670709,0.0,Match 2
+Nicolás González,M,save,regular,"{'x': 19.2, 'y': 46.4, 'z': 0}",head,high-centre,"{'x': 0, 'y': 49.7, 'z': 20.3}",0.042304672300816,0.0241,Match 2
+Enzo Fernández,M,save,assisted,"{'x': 21.9, 'y': 31, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.6, 'z': 3.8}",0.029897125437856,0.0271,Match 2
+Rodrigo de Paul,M,block,regular,"{'x': 19.5, 'y': 57.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50, 'z': 19}",0.030410494655371,0.0,Match 2
+Rodrigo de Paul,M,miss,assisted,"{'x': 16.4, 'y': 70.1, 'z': 0}",right-foot,high,"{'x': 0, 'y': 48.7, 'z': 81.9}",0.04913779720664,0.0,Match 2
+Nicolás González,M,miss,assisted,"{'x': 1.7, 'y': 36.6, 'z': 0}",left-foot,left,"{'x': 0, 'y': 63.7, 'z': 9.7}",0.052055608481169,0.0,Match 2
+Julián Álvarez,F,save,assisted,"{'x': 8.9, 'y': 44.2, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 51.3, 'z': 15.2}",0.36816626787186,0.5038,Match 2
+Rodrigo de Paul,M,block,assisted,"{'x': 31.8, 'y': 53.6, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.5, 'z': 19}",0.016233691945672,0.0,Match 2
+Jesús Castillo,M,block,set-piece,"{'x': 20.6, 'y': 35.8, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 48.9, 'z': 19}",0.022732311859727,0.0,Match 3
+Gianluca Lapadula,F,miss,regular,"{'x': 46.7, 'y': 45, 'z': 0}",left-foot,high,"{'x': 0, 'y': 52.4, 'z': 80.6}",0.015230652876198,0.0,Match 3
+Franco Zanelatto,M,post,assisted,"{'x': 9.4, 'y': 45.6, 'z': 0}",head,left,"{'x': 0, 'y': 55.2, 'z': 13.3}",0.05455831065774,0.0,Match 3
+Lautaro Martínez,F,goal,assisted,"{'x': 11.8, 'y': 39.9, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.3, 'z': 7.6}",0.34161445498466,0.1426,Match 3
+Lautaro Martínez,F,save,assisted,"{'x': 10.2, 'y': 36.4, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.8, 'z': 12}",0.16817587614059,0.1783,Match 3
+Enzo Fernández,M,miss,assisted,"{'x': 14.5, 'y': 30.3, 'z': 0}",right-foot,close-left,"{'x': 0, 'y': 59, 'z': 11.1}",0.059952165931463,0.0,Match 3
+Lautaro Martínez,F,block,set-piece,"{'x': 12, 'y': 52.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.5, 'z': 19}",0.13141340017319,0.0,Match 3
+Leandro Paredes,M,post,penalty,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,right,"{'x': 0, 'y': 44.5, 'z': 15.8}",0.7884,0.0,Match 3
+Carlos Zambrano,D,miss,corner,"{'x': 11.4, 'y': 58.9, 'z': 0}",head,left,"{'x': 0, 'y': 65.5, 'z': 22.2}",0.017697967588902,0.0,Match 3
+Marcos López,D,save,assisted,"{'x': 28.7, 'y': 34.6, 'z': 0}",left-foot,high-left,"{'x': 0, 'y': 51.9, 'z': 24.7}",0.018190978094935,0.0906,Match 3
+Lautaro Martínez,F,goal,assisted,"{'x': 12, 'y': 57.3, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 48.7, 'z': 8.9}",0.58000653982162,0.5432,Match 3
+Alejandro Garnacho,M,miss,regular,"{'x': 14.5, 'y': 32.7, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 43.9, 'z': 65.3}",0.05724511295557,0.0,Match 3
+Giovani Lo Celso,M,save,assisted,"{'x': 11.4, 'y': 52.1, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 50, 'z': 11.4}",0.14999495446682,0.0156,Match 3
+Ángel Di María,M,save,assisted,"{'x': 21.5, 'y': 70.9, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.7, 'z': 14.6}",0.019504072144628,0.0579,Match 3
+Wilder Cartagena,M,block,throw-in-set-piece,"{'x': 25.4, 'y': 72.4, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.9, 'z': 13.9}",0.0078386003151536,0.0,Match 3
+Germán Pezzella,D,miss,set-piece,"{'x': 11.3, 'y': 45.5, 'z': 0}",head,left,"{'x': 0, 'y': 69.6, 'z': 29.2}",0.034026842564344,0.0,Match 3
+Leandro Paredes,M,save,free-kick,"{'x': 25.7, 'y': 33.5, 'z': 0}",right-foot,high-left,"{'x': 0, 'y': 52.2, 'z': 29.1}",0.035784356296062,0.1705,Match 3
+Alejandro Garnacho,M,block,assisted,"{'x': 14.2, 'y': 37, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 47.1, 'z': 20.8}",0.037146788090467,0.0,Match 3
+Nicolás Otamendi,D,goal,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.6, 'z': 4.4}",0.7884,0.9917,Match 4
+Jordy Caicedo,F,goal,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 52.3, 'z': 12.7}",0.7884,0.9597,Match 4
+Gonzalo Montiel,D,goal,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 48.1, 'z': 7}",0.7884,0.959,Match 4
+John Yeboah,F,goal,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",left-foot,high-right,"{'x': 0, 'y': 46.3, 'z': 29.7}",0.7884,0.9961,Match 4
+Alexis Mac Allister,M,goal,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 46.1, 'z': 7.6}",0.7884,0.9915,Match 4
+Alan Minda,M,save,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.9, 'z': 13.3}",0.7884,0.9895,Match 4
+Julián Álvarez,F,goal,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 46.8, 'z': 27.8}",0.7884,0.9935,Match 4
+Ángel Mena,M,save,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.5, 'z': 14.6}",0.7884,0.9704,Match 4
+Lionel Messi,F,post,shootout,"{'x': 11.5, 'y': 50, 'z': 0}",left-foot,high,"{'x': 0, 'y': 50, 'z': 40.5}",0.7884,0.0,Match 4
+Jordy Caicedo,F,miss,assisted,"{'x': 7.1, 'y': 47.9, 'z': 0}",head,right,"{'x': 0, 'y': 40.2, 'z': 8.3}",0.27922794222832,0.0,Match 4
+Kevin Rodriguez,F,goal,assisted,"{'x': 11.9, 'y': 58.3, 'z': 0}",head,low-left,"{'x': 0, 'y': 54.1, 'z': 14.6}",0.022141803056002,0.3785,Match 4
+Jordy Caicedo,F,miss,assisted,"{'x': 5.7, 'y': 32.1, 'z': 0}",left-foot,close-left,"{'x': 0, 'y': 58.2, 'z': 22.2}",0.041761044412851,0.0,Match 4
+Ángel Mena,M,block,free-kick,"{'x': 28.5, 'y': 44.9, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.7, 'z': 19}",0.035111375153065,0.0,Match 4
+Lisandro Martínez,D,miss,set-piece,"{'x': 14.6, 'y': 47.1, 'z': 0}",right-foot,right,"{'x': 0, 'y': 40, 'z': 25}",0.078338786959648,0.0,Match 4
+Lisandro Martínez,D,block,set-piece,"{'x': 16, 'y': 46.9, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 50.7, 'z': 19}",0.059108071029186,0.0,Match 4
+Lionel Messi,F,save,assisted,"{'x': 10.8, 'y': 35.8, 'z': 0}",right-foot,high-centre,"{'x': 0, 'y': 51.2, 'z': 22.8}",0.18953143060207,0.0572,Match 4
+Enner Valencia,F,post,penalty,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,left,"{'x': 0, 'y': 55.2, 'z': 9.5}",0.7884,0.0,Match 4
+Alan Franco,M,block,corner,"{'x': 8.2, 'y': 33.1, 'z': 0}",head,low-centre,"{'x': 0, 'y': 50.7, 'z': 19}",0.0078840320929885,0.0,Match 4
+Lautaro Martínez,F,miss,assisted,"{'x': 13.2, 'y': 38.3, 'z': 0}",left-foot,left,"{'x': 0, 'y': 62.7, 'z': 9.7}",0.04847352206707,0.0,Match 4
+Enzo Fernández,M,miss,regular,"{'x': 11.1, 'y': 35.6, 'z': 0}",left-foot,right,"{'x': 0, 'y': 26.2, 'z': 2.8}",0.076978601515293,0.0,Match 4
+Lisandro Martínez,D,goal,corner,"{'x': 3, 'y': 42.5, 'z': 0}",head,low-centre,"{'x': 0, 'y': 51.1, 'z': 18.4}",0.21780993044376,0.275,Match 4
+Enzo Fernández,M,block,assisted,"{'x': 13.5, 'y': 60.9, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.3, 'z': 19}",0.13816250860691,0.0,Match 4
+Enzo Fernández,M,miss,assisted,"{'x': 11.9, 'y': 45.4, 'z': 0}",head,close-right,"{'x': 0, 'y': 43.5, 'z': 23.6}",0.059313844889402,0.0,Match 4
+Ángelo Preciado,M,miss,assisted,"{'x': 5.8, 'y': 55.6, 'z': 0}",right-foot,high,"{'x': 0, 'y': 50.4, 'z': 65.3}",0.16940136253834,0.0,Match 4
+Kendry Páez,M,miss,assisted,"{'x': 15.6, 'y': 48.1, 'z': 0}",right-foot,close-high,"{'x': 0, 'y': 50.3, 'z': 55.6}",0.088254638016224,0.0,Match 4
+Jeremy Sarmiento,F,save,assisted,"{'x': 3.8, 'y': 40.9, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.4, 'z': 1.9}",0.32272294163704,0.6901,Match 4
+Tani Oluwaseyi,F,miss,assisted,"{'x': 10.1, 'y': 52.3, 'z': 0}",head,close-right,"{'x': 0, 'y': 40.8, 'z': 12.5}",0.10496734082699,0.0,Match 5
+Tani Oluwaseyi,F,save,assisted,"{'x': 14.8, 'y': 46.6, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 48.2, 'z': 1.9}",0.16525553166866,0.1215,Match 5
+Liam Millar,M,miss,regular,"{'x': 25.7, 'y': 63.8, 'z': 0}",right-foot,high,"{'x': 0, 'y': 49.6, 'z': 93.1}",0.018697733059525,0.0,Match 5
+Ismael Koné,M,block,assisted,"{'x': 19.4, 'y': 51.7, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49, 'z': 19}",0.090994901955128,0.0,Match 5
+Ismael Koné,M,miss,assisted,"{'x': 25.1, 'y': 57.5, 'z': 0}",left-foot,high,"{'x': 0, 'y': 50.8, 'z': 72.2}",0.026660066097975,0.0,Match 5
+Julián Álvarez,F,save,assisted,"{'x': 14, 'y': 61.7, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.4, 'z': 10.8}",0.39730045199394,0.0615,Match 5
+Lionel Messi,F,goal,assisted,"{'x': 4.6, 'y': 50.7, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.4, 'z': 5.1}",0.67360430955887,0.9433,Match 5
+Enzo Fernández,M,block,regular,"{'x': 15.5, 'y': 46.6, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 47.3, 'z': 19}",0.16799372434616,0.0,Match 5
+Jonathan David,F,save,throw-in-set-piece,"{'x': 2.3, 'y': 57.5, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 46.9, 'z': 13.9}",0.19845031201839,0.7001,Match 5
+Lionel Messi,F,miss,assisted,"{'x': 18.4, 'y': 46.8, 'z': 0}",left-foot,high,"{'x': 0, 'y': 49.1, 'z': 68.1}",0.040804896503687,0.0,Match 5
+Lionel Messi,F,miss,assisted,"{'x': 12.8, 'y': 42.5, 'z': 0}",right-foot,left,"{'x': 0, 'y': 60.8, 'z': 12.5}",0.13806061446667,0.0,Match 5
+Lisandro Martínez,D,miss,corner,"{'x': 9.6, 'y': 62.4, 'z': 0}",head,close-right,"{'x': 0, 'y': 42.5, 'z': 38.9}",0.01620189845562,0.0,Match 5
+Nicolás Tagliafico,D,block,assisted,"{'x': 11.3, 'y': 30.5, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 50.8, 'z': 19}",0.022119294852018,0.0,Match 5
+Ángel Di María,M,miss,regular,"{'x': 18.4, 'y': 71.4, 'z': 0}",left-foot,close-high-left,"{'x': 0, 'y': 57.8, 'z': 41.7}",0.029839804396033,0.0,Match 5
+Julián Álvarez,F,goal,assisted,"{'x': 11.9, 'y': 51, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50, 'z': 6.3}",0.65912920236588,0.4088,Match 5
+Julián Álvarez,F,miss,fast-break,"{'x': 58.8, 'y': 63, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 29.4, 'z': 43.1}",0.017228649929166,0.0,Match 5
+Alphonso Davies,D,block,assisted,"{'x': 21, 'y': 55.1, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 53.8, 'z': 19}",0.056513927876949,0.0,Match 5
+Lionel Messi,F,miss,assisted,"{'x': 20.7, 'y': 62.5, 'z': 0}",left-foot,right,"{'x': 0, 'y': 40, 'z': 6.9}",0.039761655032635,0.0,Match 5
+Jacob Shaffelburg,M,miss,fast-break,"{'x': 13.9, 'y': 37, 'z': 0}",left-foot,right,"{'x': 0, 'y': 32.8, 'z': 4.2}",0.093296810984612,0.0,Match 5
+Jacob Shaffelburg,M,miss,assisted,"{'x': 9.7, 'y': 31.3, 'z': 0}",left-foot,high,"{'x': 0, 'y': 53.9, 'z': 70.8}",0.02608559653163,0.0,Match 5
+Carlos Cuesta,D,miss,regular,"{'x': 7.4, 'y': 45.9, 'z': 0}",head,left,"{'x': 0, 'y': 64.5, 'z': 8.3}",0.10697464644909,0.0,Match 6
+Leandro Paredes,M,miss,fast-break,"{'x': 71.8, 'y': 55.6, 'z': 0}",right-foot,left,"{'x': 0, 'y': 77.1, 'z': 6.9}",0.010415447875857,0.0,Match 6
+Mateus Uribe,M,miss,assisted,"{'x': 27.8, 'y': 55.4, 'z': 0}",right-foot,high,"{'x': 0, 'y': 48.4, 'z': 73.6}",0.039428196847439,0.0,Match 6
+Lautaro Martínez,F,goal,assisted,"{'x': 12.5, 'y': 63.8, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.6, 'z': 19.6}",0.35324060916901,0.6418,Match 6
+Miguel Borja,F,block,assisted,"{'x': 11, 'y': 33.5, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.9, 'z': 19}",0.066931672394276,0.0,Match 6
+Jhon Arias,M,block,assisted,"{'x': 26.3, 'y': 51.3, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 52.5, 'z': 19}",0.037866603583097,0.0,Match 6
+Nicolás Tagliafico,D,save,assisted,"{'x': 1.8, 'y': 37.9, 'z': 0}",head,high-left,"{'x': 0, 'y': 51.9, 'z': 23.4}",0.029340947046876,0.0649,Match 6
+Juan Fernando Quintero,F,block,throw-in-set-piece,"{'x': 30.5, 'y': 46.8, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 51.8, 'z': 19}",0.013619099743664,0.0,Match 6
+Nicolás González,M,save,regular,"{'x': 9.4, 'y': 43.2, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.3, 'z': 3.2}",0.075220786035061,0.0755,Match 6
+Nicolás González,M,miss,corner,"{'x': 8.3, 'y': 51.5, 'z': 0}",right-foot,high,"{'x': 0, 'y': 50.1, 'z': 80.6}",0.13058306276798,0.0,Match 6
+James Rodríguez,M,block,free-kick,"{'x': 23.7, 'y': 26.2, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 51.5, 'z': 19}",0.032951444387436,0.0,Match 6
+Carlos Cuesta,D,miss,set-piece,"{'x': 9.5, 'y': 53.4, 'z': 0}",head,close-right,"{'x': 0, 'y': 41.3, 'z': 31.9}",0.06287981569767,0.0,Match 6
+Jefferson Lerma,M,miss,set-piece,"{'x': 29, 'y': 46.4, 'z': 0}",right-foot,high,"{'x': 0, 'y': 51.9, 'z': 77.8}",0.017157038673759,0.0,Match 6
+Ángel Di María,M,save,assisted,"{'x': 9.7, 'y': 28.4, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.3, 'z': 5.1}",0.019011640921235,0.0393,Match 6
+Alexis Mac Allister,M,block,assisted,"{'x': 11.3, 'y': 45, 'z': 0}",head,low-centre,"{'x': 0, 'y': 49.1, 'z': 9.7}",0.039071183651686,0.0,Match 6
+Davinson Sánchez,D,miss,corner,"{'x': 3.8, 'y': 55.3, 'z': 0}",head,high,"{'x': 0, 'y': 45.9, 'z': 61.1}",0.15650691092014,0.0,Match 6
+Jhon Arias,M,block,assisted,"{'x': 21.8, 'y': 31.7, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.8, 'z': 19}",0.013982947915792,0.0,Match 6
+Ángel Di María,M,save,assisted,"{'x': 9.5, 'y': 33.1, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 51.1, 'z': 2.5}",0.034841444343328,0.0519,Match 6
+Santiago Arias,D,miss,assisted,"{'x': 14.1, 'y': 68.2, 'z': 0}",right-foot,close-left,"{'x': 0, 'y': 58.2, 'z': 2.8}",0.04987096786499,0.0,Match 6
+Nicolás Tagliafico,D,miss,set-piece,"{'x': 10.7, 'y': 47.7, 'z': 0}",head,high,"{'x': 0, 'y': 50.6, 'z': 68.1}",0.047955926507711,0.0,Match 6
+Richard Ríos,M,save,regular,"{'x': 30.2, 'y': 57.7, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 48.4, 'z': 5.1}",0.01223667524755,0.0537,Match 6
+Jhon Arias,M,miss,assisted,"{'x': 13.9, 'y': 42.3, 'z': 0}",head,left,"{'x': 0, 'y': 61.3, 'z': 8.3}",0.015636637806892,0.0,Match 6
+Jhon Córdoba,F,block,corner,"{'x': 7.6, 'y': 48.1, 'z': 0}",head,low-centre,"{'x': 0, 'y': 51.4, 'z': 19}",0.10069737583399,0.0,Match 6
+Jefferson Lerma,M,save,assisted,"{'x': 29.9, 'y': 40.9, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 54.2, 'z': 16.5}",0.02400515973568,0.2797,Match 6
+Jhon Córdoba,F,block,assisted,"{'x': 10.2, 'y': 47.4, 'z': 0}",head,low-centre,"{'x': 0, 'y': 48.9, 'z': 19}",0.056454665958881,0.0,Match 6
+Lionel Messi,F,save,assisted,"{'x': 13.3, 'y': 45.2, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 53.1, 'z': 7}",0.18062314391136,0.1711,Match 6
+Carlos Cuesta,D,save,corner,"{'x': 7, 'y': 48.5, 'z': 0}",head,low-left,"{'x': 0, 'y': 52.2, 'z': 7}",0.10255002975464,0.1155,Match 6
+Jhon Córdoba,F,post,assisted,"{'x': 13, 'y': 59.3, 'z': 0}",right-foot,left,"{'x': 0, 'y': 55.4, 'z': 13.3}",0.0942527577281,0.0,Match 6
+Luis Díaz,F,save,assisted,"{'x': 23.1, 'y': 31.5, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.2, 'z': 2.5}",0.020883893594146,0.1656,Match 6
+Julián Álvarez,F,miss,assisted,"{'x': 13.6, 'y': 53, 'z': 0}",right-foot,left,"{'x': 0, 'y': 59.8, 'z': 4.2}",0.1193735152483,0.0,Match 6

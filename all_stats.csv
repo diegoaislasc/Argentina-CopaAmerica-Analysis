@@ -1,0 +1,810 @@
+Period,Group,Statistic,Home,Away,Match
+Full Match,Match overview,Ball possession,64%,36%,Match 1
+Full Match,Match overview,Expected goals,3.02,1.16,Match 1
+Full Match,Match overview,Big chances,9,2,Match 1
+Full Match,Match overview,Total shots,19,10,Match 1
+Full Match,Match overview,Goalkeeper saves,2,6,Match 1
+Full Match,Match overview,Corner kicks,7,4,Match 1
+Full Match,Match overview,Fouls,15,9,Match 1
+Full Match,Match overview,Passes,604,327,Match 1
+Full Match,Match overview,Tackles,19,29,Match 1
+Full Match,Match overview,Free kicks,9,12,Match 1
+Full Match,Match overview,Yellow cards,2,2,Match 1
+Full Match,Shots,Total shots,19,10,Match 1
+Full Match,Shots,Shots on target,9,2,Match 1
+Full Match,Shots,Hit woodwork,0,0,Match 1
+Full Match,Shots,Shots off target,7,4,Match 1
+Full Match,Shots,Blocked shots,3,4,Match 1
+Full Match,Shots,Shots inside box,15,6,Match 1
+Full Match,Shots,Shots outside box,4,4,Match 1
+Full Match,Attack,Big chances scored,2,0,Match 1
+Full Match,Attack,Big chances missed,7,2,Match 1
+Full Match,Attack,Through balls,2,0,Match 1
+Full Match,Attack,Touches in penalty area,37,18,Match 1
+Full Match,Attack,Fouled in final third,3,2,Match 1
+Full Match,Attack,Offsides,1,1,Match 1
+Full Match,Passes,Accurate passes,547,265,Match 1
+Full Match,Passes,Throw-ins,23,10,Match 1
+Full Match,Passes,Final third entries,57,30,Match 1
+Full Match,Passes,Final third phase,102/132 (77%),44/69 (64%),Match 1
+Full Match,Passes,Long balls,35/51 (69%),14/27 (52%),Match 1
+Full Match,Passes,Crosses,3/10 (30%),4/9 (44%),Match 1
+Full Match,Duels,Duels,44%,56%,Match 1
+Full Match,Duels,Dispossessed,14,13,Match 1
+Full Match,Duels,Ground duels,34/80 (43%),46/80 (58%),Match 1
+Full Match,Duels,Aerial duels,6/10 (60%),4/10 (40%),Match 1
+Full Match,Duels,Dribbles,6/21 (29%),5/11 (45%),Match 1
+Full Match,Defending,Tackles won,74%,55%,Match 1
+Full Match,Defending,Total tackles,19,29,Match 1
+Full Match,Defending,Interceptions,8,7,Match 1
+Full Match,Defending,Recoveries,47,44,Match 1
+Full Match,Defending,Clearances,10,18,Match 1
+Full Match,Goalkeeping,Total saves,2,6,Match 1
+Full Match,Goalkeeping,Goals prevented,0.15,0.95,Match 1
+Full Match,Goalkeeping,High claims,1,1,Match 1
+Full Match,Goalkeeping,Goal kicks,8,6,Match 1
+First Half,Match overview,Ball possession,66%,34%,Match 1
+First Half,Match overview,Expected goals,0.44,0.77,Match 1
+First Half,Match overview,Big chances,2,1,Match 1
+First Half,Match overview,Total shots,7,7,Match 1
+First Half,Match overview,Goalkeeper saves,1,2,Match 1
+First Half,Match overview,Corner kicks,2,1,Match 1
+First Half,Match overview,Passes,374,190,Match 1
+First Half,Match overview,Tackles,10,12,Match 1
+First Half,Match overview,Free kicks,3,6,Match 1
+First Half,Match overview,Yellow cards,0,0,Match 1
+First Half,Shots,Total shots,7,7,Match 1
+First Half,Shots,Shots on target,2,1,Match 1
+First Half,Shots,Hit woodwork,0,0,Match 1
+First Half,Shots,Shots off target,3,2,Match 1
+First Half,Shots,Blocked shots,2,4,Match 1
+First Half,Shots,Shots inside box,5,4,Match 1
+First Half,Shots,Shots outside box,2,3,Match 1
+First Half,Attack,Big chances scored,0,0,Match 1
+First Half,Attack,Big chances missed,2,1,Match 1
+First Half,Attack,Through balls,0,0,Match 1
+First Half,Attack,Fouled in final third,0,1,Match 1
+First Half,Attack,Offsides,1,1,Match 1
+First Half,Passes,Accurate passes,344,159,Match 1
+First Half,Passes,Throw-ins,10,5,Match 1
+First Half,Passes,Final third entries,36,15,Match 1
+First Half,Passes,Long balls,16/24 (67%),8/15 (53%),Match 1
+First Half,Passes,Crosses,1/5 (20%),2/3 (67%),Match 1
+First Half,Duels,Duels,41%,59%,Match 1
+First Half,Duels,Dispossessed,3,7,Match 1
+First Half,Duels,Ground duels,16/37 (43%),21/37 (57%),Match 1
+First Half,Duels,Aerial duels,1/4 (25%),3/4 (75%),Match 1
+First Half,Duels,Dribbles,3/12 (25%),3/6 (50%),Match 1
+First Half,Defending,Tackles won,70%,58%,Match 1
+First Half,Defending,Total tackles,10,12,Match 1
+First Half,Defending,Interceptions,3,2,Match 1
+First Half,Defending,Recoveries,24,24,Match 1
+First Half,Defending,Clearances,3,13,Match 1
+First Half,Goalkeeping,Total saves,1,2,Match 1
+First Half,Goalkeeping,Goal kicks,4,2,Match 1
+Second Half,Match overview,Ball possession,62%,38%,Match 1
+Second Half,Match overview,Expected goals,2.58,0.39,Match 1
+Second Half,Match overview,Big chances,7,1,Match 1
+Second Half,Match overview,Total shots,12,3,Match 1
+Second Half,Match overview,Goalkeeper saves,1,4,Match 1
+Second Half,Match overview,Corner kicks,5,3,Match 1
+Second Half,Match overview,Passes,230,137,Match 1
+Second Half,Match overview,Tackles,9,17,Match 1
+Second Half,Match overview,Free kicks,6,6,Match 1
+Second Half,Match overview,Yellow cards,2,2,Match 1
+Second Half,Shots,Total shots,12,3,Match 1
+Second Half,Shots,Shots on target,7,1,Match 1
+Second Half,Shots,Hit woodwork,0,0,Match 1
+Second Half,Shots,Shots off target,4,2,Match 1
+Second Half,Shots,Blocked shots,1,0,Match 1
+Second Half,Shots,Shots inside box,10,2,Match 1
+Second Half,Shots,Shots outside box,2,1,Match 1
+Second Half,Attack,Big chances scored,2,0,Match 1
+Second Half,Attack,Big chances missed,5,1,Match 1
+Second Half,Attack,Through balls,2,0,Match 1
+Second Half,Attack,Fouled in final third,3,1,Match 1
+Second Half,Attack,Offsides,0,0,Match 1
+Second Half,Passes,Accurate passes,203,106,Match 1
+Second Half,Passes,Throw-ins,13,5,Match 1
+Second Half,Passes,Final third entries,21,15,Match 1
+Second Half,Passes,Long balls,19/27 (70%),6/12 (50%),Match 1
+Second Half,Passes,Crosses,2/5 (40%),2/6 (33%),Match 1
+Second Half,Duels,Duels,47%,53%,Match 1
+Second Half,Duels,Dispossessed,11,6,Match 1
+Second Half,Duels,Ground duels,18/43 (42%),25/43 (58%),Match 1
+Second Half,Duels,Aerial duels,5/6 (83%),1/6 (17%),Match 1
+Second Half,Duels,Dribbles,3/9 (33%),2/5 (40%),Match 1
+Second Half,Defending,Tackles won,78%,53%,Match 1
+Second Half,Defending,Total tackles,9,17,Match 1
+Second Half,Defending,Interceptions,5,5,Match 1
+Second Half,Defending,Recoveries,23,20,Match 1
+Second Half,Defending,Clearances,7,5,Match 1
+Second Half,Goalkeeping,Total saves,1,4,Match 1
+Second Half,Goalkeeping,Goal kicks,4,4,Match 1
+Full Match,Match overview,Ball possession,39%,61%,Match 2
+Full Match,Match overview,Expected goals,0.12,2.72,Match 2
+Full Match,Match overview,Big chances,0,5,Match 2
+Full Match,Match overview,Total shots,3,22,Match 2
+Full Match,Match overview,Goalkeeper saves,8,3,Match 2
+Full Match,Match overview,Corner kicks,0,11,Match 2
+Full Match,Match overview,Fouls,12,9,Match 2
+Full Match,Match overview,Passes,355,551,Match 2
+Full Match,Match overview,Tackles,22,24,Match 2
+Full Match,Match overview,Free kicks,9,12,Match 2
+Full Match,Match overview,Yellow cards,2,0,Match 2
+Full Match,Shots,Total shots,3,22,Match 2
+Full Match,Shots,Shots on target,3,9,Match 2
+Full Match,Shots,Hit woodwork,0,2,Match 2
+Full Match,Shots,Shots off target,0,7,Match 2
+Full Match,Shots,Blocked shots,0,6,Match 2
+Full Match,Shots,Shots inside box,1,14,Match 2
+Full Match,Shots,Shots outside box,2,8,Match 2
+Full Match,Attack,Big chances scored,0,1,Match 2
+Full Match,Attack,Big chances missed,0,4,Match 2
+Full Match,Attack,Through balls,1,3,Match 2
+Full Match,Attack,Touches in penalty area,7,31,Match 2
+Full Match,Attack,Fouled in final third,0,3,Match 2
+Full Match,Attack,Offsides,1,1,Match 2
+Full Match,Passes,Accurate passes,273,482,Match 2
+Full Match,Passes,Throw-ins,21,17,Match 2
+Full Match,Passes,Final third entries,38,50,Match 2
+Full Match,Passes,Final third phase,38/81 (47%),79/102 (77%),Match 2
+Full Match,Passes,Long balls,19/51 (37%),14/29 (48%),Match 2
+Full Match,Passes,Crosses,0/3 (0%),5/15 (33%),Match 2
+Full Match,Duels,Duels,47%,53%,Match 2
+Full Match,Duels,Dispossessed,14,11,Match 2
+Full Match,Duels,Ground duels,43/90 (48%),47/90 (52%),Match 2
+Full Match,Duels,Aerial duels,7/17 (41%),10/17 (59%),Match 2
+Full Match,Duels,Dribbles,12/22 (55%),11/22 (50%),Match 2
+Full Match,Defending,Tackles won,59%,79%,Match 2
+Full Match,Defending,Total tackles,22,24,Match 2
+Full Match,Defending,Interceptions,6,8,Match 2
+Full Match,Defending,Recoveries,53,57,Match 2
+Full Match,Defending,Clearances,17,7,Match 2
+Full Match,Goalkeeping,Total saves,8,3,Match 2
+Full Match,Goalkeeping,Goals prevented,2.65,0.13,Match 2
+Full Match,Goalkeeping,High claims,1,1,Match 2
+Full Match,Goalkeeping,Goal kicks,10,1,Match 2
+First Half,Match overview,Ball possession,38%,62%,Match 2
+First Half,Match overview,Expected goals,0.00,0.76,Match 2
+First Half,Match overview,Big chances,0,1,Match 2
+First Half,Match overview,Total shots,0,13,Match 2
+First Half,Match overview,Goalkeeper saves,3,0,Match 2
+First Half,Match overview,Corner kicks,0,2,Match 2
+First Half,Match overview,Passes,200,329,Match 2
+First Half,Match overview,Tackles,11,16,Match 2
+First Half,Match overview,Free kicks,5,4,Match 2
+First Half,Match overview,Yellow cards,0,0,Match 2
+First Half,Shots,Total shots,0,13,Match 2
+First Half,Shots,Shots on target,0,3,Match 2
+First Half,Shots,Hit woodwork,0,1,Match 2
+First Half,Shots,Shots off target,0,6,Match 2
+First Half,Shots,Blocked shots,0,4,Match 2
+First Half,Shots,Shots inside box,0,5,Match 2
+First Half,Shots,Shots outside box,0,8,Match 2
+First Half,Attack,Big chances scored,0,0,Match 2
+First Half,Attack,Big chances missed,0,1,Match 2
+First Half,Attack,Through balls,0,1,Match 2
+First Half,Attack,Fouled in final third,0,1,Match 2
+First Half,Attack,Offsides,0,0,Match 2
+First Half,Passes,Accurate passes,156,295,Match 2
+First Half,Passes,Throw-ins,11,9,Match 2
+First Half,Passes,Final third entries,17,28,Match 2
+First Half,Passes,Long balls,9/28 (32%),6/14 (43%),Match 2
+First Half,Passes,Crosses,0/1 (0%),3/4 (75%),Match 2
+First Half,Duels,Duels,41%,59%,Match 2
+First Half,Duels,Dispossessed,11,8,Match 2
+First Half,Duels,Ground duels,20/47 (43%),27/47 (57%),Match 2
+First Half,Duels,Aerial duels,3/9 (33%),6/9 (67%),Match 2
+First Half,Duels,Dribbles,4/9 (44%),7/10 (70%),Match 2
+First Half,Defending,Tackles won,55%,69%,Match 2
+First Half,Defending,Total tackles,11,16,Match 2
+First Half,Defending,Interceptions,2,4,Match 2
+First Half,Defending,Recoveries,31,29,Match 2
+First Half,Defending,Clearances,3,2,Match 2
+First Half,Goalkeeping,Total saves,3,0,Match 2
+First Half,Goalkeeping,Goal kicks,6,0,Match 2
+Second Half,Match overview,Ball possession,40%,60%,Match 2
+Second Half,Match overview,Expected goals,0.12,1.96,Match 2
+Second Half,Match overview,Big chances,0,4,Match 2
+Second Half,Match overview,Total shots,3,9,Match 2
+Second Half,Match overview,Goalkeeper saves,5,3,Match 2
+Second Half,Match overview,Corner kicks,0,9,Match 2
+Second Half,Match overview,Passes,155,222,Match 2
+Second Half,Match overview,Tackles,11,8,Match 2
+Second Half,Match overview,Free kicks,4,8,Match 2
+Second Half,Match overview,Yellow cards,2,0,Match 2
+Second Half,Shots,Total shots,3,9,Match 2
+Second Half,Shots,Shots on target,3,6,Match 2
+Second Half,Shots,Hit woodwork,0,1,Match 2
+Second Half,Shots,Shots off target,0,1,Match 2
+Second Half,Shots,Blocked shots,0,2,Match 2
+Second Half,Shots,Shots inside box,1,9,Match 2
+Second Half,Shots,Shots outside box,2,0,Match 2
+Second Half,Attack,Big chances scored,0,1,Match 2
+Second Half,Attack,Big chances missed,0,3,Match 2
+Second Half,Attack,Through balls,1,2,Match 2
+Second Half,Attack,Fouled in final third,0,2,Match 2
+Second Half,Attack,Offsides,1,1,Match 2
+Second Half,Passes,Accurate passes,117,187,Match 2
+Second Half,Passes,Throw-ins,10,8,Match 2
+Second Half,Passes,Final third entries,21,22,Match 2
+Second Half,Passes,Long balls,10/23 (43%),8/15 (53%),Match 2
+Second Half,Passes,Crosses,0/2 (0%),2/11 (18%),Match 2
+Second Half,Duels,Duels,53%,47%,Match 2
+Second Half,Duels,Dispossessed,3,3,Match 2
+Second Half,Duels,Ground duels,23/43 (53%),20/43 (47%),Match 2
+Second Half,Duels,Aerial duels,4/8 (50%),4/8 (50%),Match 2
+Second Half,Duels,Dribbles,8/13 (62%),4/12 (33%),Match 2
+Second Half,Defending,Tackles won,64%,100%,Match 2
+Second Half,Defending,Total tackles,11,8,Match 2
+Second Half,Defending,Interceptions,4,4,Match 2
+Second Half,Defending,Recoveries,22,28,Match 2
+Second Half,Defending,Clearances,14,5,Match 2
+Second Half,Goalkeeping,Total saves,5,3,Match 2
+Second Half,Goalkeeping,Goal kicks,4,1,Match 2
+Full Match,Match overview,Ball possession,74%,26%,Match 3
+Full Match,Match overview,Expected goals,2.29,0.14,Match 3
+Full Match,Match overview,Big chances,4,0,Match 3
+Full Match,Match overview,Total shots,12,6,Match 3
+Full Match,Match overview,Goalkeeper saves,1,4,Match 3
+Full Match,Match overview,Corner kicks,6,3,Match 3
+Full Match,Match overview,Fouls,11,20,Match 3
+Full Match,Match overview,Passes,627,209,Match 3
+Full Match,Match overview,Tackles,17,13,Match 3
+Full Match,Match overview,Free kicks,17,11,Match 3
+Full Match,Match overview,Yellow cards,1,5,Match 3
+Full Match,Shots,Total shots,12,6,Match 3
+Full Match,Shots,Shots on target,6,1,Match 3
+Full Match,Shots,Hit woodwork,1,1,Match 3
+Full Match,Shots,Shots off target,4,3,Match 3
+Full Match,Shots,Blocked shots,2,2,Match 3
+Full Match,Shots,Shots inside box,10,2,Match 3
+Full Match,Shots,Shots outside box,2,4,Match 3
+Full Match,Attack,Big chances scored,2,0,Match 3
+Full Match,Attack,Big chances missed,2,0,Match 3
+Full Match,Attack,Through balls,1,0,Match 3
+Full Match,Attack,Touches in penalty area,21,12,Match 3
+Full Match,Attack,Fouled in final third,5,3,Match 3
+Full Match,Attack,Offsides,3,1,Match 3
+Full Match,Passes,Accurate passes,561,150,Match 3
+Full Match,Passes,Throw-ins,18,23,Match 3
+Full Match,Passes,Final third entries,44,32,Match 3
+Full Match,Passes,Final third phase,63/84 (75%),30/55 (55%),Match 3
+Full Match,Passes,Long balls,26/43 (60%),13/36 (36%),Match 3
+Full Match,Passes,Crosses,3/10 (30%),6/13 (46%),Match 3
+Full Match,Duels,Duels,58%,42%,Match 3
+Full Match,Duels,Dispossessed,6,6,Match 3
+Full Match,Duels,Ground duels,38/65 (58%),27/65 (42%),Match 3
+Full Match,Duels,Aerial duels,10/18 (56%),8/18 (44%),Match 3
+Full Match,Duels,Dribbles,4/11 (36%),3/14 (21%),Match 3
+Full Match,Defending,Tackles won,71%,77%,Match 3
+Full Match,Defending,Total tackles,17,13,Match 3
+Full Match,Defending,Interceptions,7,11,Match 3
+Full Match,Defending,Recoveries,40,39,Match 3
+Full Match,Defending,Clearances,14,6,Match 3
+Full Match,Goalkeeping,Total saves,1,4,Match 3
+Full Match,Goalkeeping,Goals prevented,0.09,-0.89,Match 3
+Full Match,Goalkeeping,Goal kicks,5,5,Match 3
+First Half,Match overview,Ball possession,79%,21%,Match 3
+First Half,Match overview,Expected goals,0.33,0.01,Match 3
+First Half,Match overview,Big chances,0,0,Match 3
+First Half,Match overview,Total shots,6,1,Match 3
+First Half,Match overview,Goalkeeper saves,0,3,Match 3
+First Half,Match overview,Corner kicks,4,0,Match 3
+First Half,Match overview,Passes,334,87,Match 3
+First Half,Match overview,Tackles,11,9,Match 3
+First Half,Match overview,Free kicks,9,3,Match 3
+First Half,Match overview,Yellow cards,0,2,Match 3
+First Half,Shots,Total shots,6,1,Match 3
+First Half,Shots,Shots on target,3,0,Match 3
+First Half,Shots,Hit woodwork,0,0,Match 3
+First Half,Shots,Shots off target,2,0,Match 3
+First Half,Shots,Blocked shots,1,1,Match 3
+First Half,Shots,Shots inside box,4,0,Match 3
+First Half,Shots,Shots outside box,2,1,Match 3
+First Half,Attack,Big chances scored,0,0,Match 3
+First Half,Attack,Big chances missed,0,0,Match 3
+First Half,Attack,Through balls,0,0,Match 3
+First Half,Attack,Fouled in final third,4,0,Match 3
+First Half,Attack,Offsides,3,0,Match 3
+First Half,Passes,Accurate passes,306,60,Match 3
+First Half,Passes,Throw-ins,10,14,Match 3
+First Half,Passes,Final third entries,26,11,Match 3
+First Half,Passes,Long balls,14/21 (67%),8/19 (42%),Match 3
+First Half,Passes,Crosses,3/8 (38%),2/3 (67%),Match 3
+First Half,Duels,Duels,60%,40%,Match 3
+First Half,Duels,Dispossessed,3,4,Match 3
+First Half,Duels,Ground duels,21/34 (62%),13/34 (38%),Match 3
+First Half,Duels,Aerial duels,6/11 (55%),5/11 (45%),Match 3
+First Half,Duels,Dribbles,1/7 (14%),1/8 (13%),Match 3
+First Half,Defending,Tackles won,73%,67%,Match 3
+First Half,Defending,Total tackles,11,9,Match 3
+First Half,Defending,Interceptions,4,6,Match 3
+First Half,Defending,Recoveries,21,22,Match 3
+First Half,Defending,Clearances,7,3,Match 3
+First Half,Goalkeeping,Total saves,0,3,Match 3
+First Half,Goalkeeping,Goal kicks,2,4,Match 3
+Second Half,Match overview,Ball possession,69%,31%,Match 3
+Second Half,Match overview,Expected goals,1.97,0.13,Match 3
+Second Half,Match overview,Big chances,4,0,Match 3
+Second Half,Match overview,Total shots,6,5,Match 3
+Second Half,Match overview,Goalkeeper saves,1,1,Match 3
+Second Half,Match overview,Corner kicks,2,3,Match 3
+Second Half,Match overview,Passes,293,122,Match 3
+Second Half,Match overview,Tackles,6,4,Match 3
+Second Half,Match overview,Free kicks,8,8,Match 3
+Second Half,Match overview,Yellow cards,1,3,Match 3
+Second Half,Shots,Total shots,6,5,Match 3
+Second Half,Shots,Shots on target,3,1,Match 3
+Second Half,Shots,Hit woodwork,1,1,Match 3
+Second Half,Shots,Shots off target,2,3,Match 3
+Second Half,Shots,Blocked shots,1,1,Match 3
+Second Half,Shots,Shots inside box,6,2,Match 3
+Second Half,Shots,Shots outside box,0,3,Match 3
+Second Half,Attack,Big chances scored,2,0,Match 3
+Second Half,Attack,Big chances missed,2,0,Match 3
+Second Half,Attack,Through balls,1,0,Match 3
+Second Half,Attack,Fouled in final third,1,3,Match 3
+Second Half,Attack,Offsides,0,1,Match 3
+Second Half,Passes,Accurate passes,255,90,Match 3
+Second Half,Passes,Throw-ins,8,9,Match 3
+Second Half,Passes,Final third entries,18,21,Match 3
+Second Half,Passes,Long balls,12/22 (55%),5/17 (29%),Match 3
+Second Half,Passes,Crosses,0/2 (0%),4/10 (40%),Match 3
+Second Half,Duels,Duels,55%,45%,Match 3
+Second Half,Duels,Dispossessed,3,2,Match 3
+Second Half,Duels,Ground duels,17/31 (55%),14/31 (45%),Match 3
+Second Half,Duels,Aerial duels,4/7 (57%),3/7 (43%),Match 3
+Second Half,Duels,Dribbles,3/4 (75%),2/6 (33%),Match 3
+Second Half,Defending,Tackles won,67%,100%,Match 3
+Second Half,Defending,Total tackles,6,4,Match 3
+Second Half,Defending,Interceptions,3,5,Match 3
+Second Half,Defending,Recoveries,19,17,Match 3
+Second Half,Defending,Clearances,7,3,Match 3
+Second Half,Goalkeeping,Total saves,1,1,Match 3
+Second Half,Goalkeeping,Goal kicks,3,1,Match 3
+Full Match,Match overview,Ball possession,51%,49%,Match 4
+Full Match,Match overview,Expected goals,0.87,1.73,Match 4
+Full Match,Match overview,Big chances,2,3,Match 4
+Full Match,Match overview,Total shots,8,9,Match 4
+Full Match,Match overview,Goalkeeper saves,1,1,Match 4
+Full Match,Match overview,Corner kicks,2,5,Match 4
+Full Match,Match overview,Fouls,13,14,Match 4
+Full Match,Match overview,Passes,374,355,Match 4
+Full Match,Match overview,Tackles,22,20,Match 4
+Full Match,Match overview,Free kicks,11,12,Match 4
+Full Match,Match overview,Yellow cards,2,2,Match 4
+Full Match,Shots,Total shots,8,9,Match 4
+Full Match,Shots,Shots on target,2,2,Match 4
+Full Match,Shots,Hit woodwork,0,1,Match 4
+Full Match,Shots,Shots off target,4,5,Match 4
+Full Match,Shots,Blocked shots,2,2,Match 4
+Full Match,Shots,Shots inside box,8,8,Match 4
+Full Match,Shots,Shots outside box,0,1,Match 4
+Full Match,Attack,Big chances scored,1,0,Match 4
+Full Match,Attack,Big chances missed,1,3,Match 4
+Full Match,Attack,Through balls,0,1,Match 4
+Full Match,Attack,Touches in penalty area,14,22,Match 4
+Full Match,Attack,Fouled in final third,0,2,Match 4
+Full Match,Attack,Offsides,2,1,Match 4
+Full Match,Passes,Accurate passes,310,289,Match 4
+Full Match,Passes,Throw-ins,19,20,Match 4
+Full Match,Passes,Final third entries,56,38,Match 4
+Full Match,Passes,Final third phase,64/97 (66%),39/62 (63%),Match 4
+Full Match,Passes,Long balls,24/46 (52%),21/49 (43%),Match 4
+Full Match,Passes,Crosses,2/5 (40%),6/13 (46%),Match 4
+Full Match,Duels,Duels,45%,55%,Match 4
+Full Match,Duels,Dispossessed,11,11,Match 4
+Full Match,Duels,Ground duels,35/77 (45%),42/77 (55%),Match 4
+Full Match,Duels,Aerial duels,7/16 (44%),9/16 (56%),Match 4
+Full Match,Duels,Dribbles,2/11 (18%),10/21 (48%),Match 4
+Full Match,Defending,Tackles won,68%,60%,Match 4
+Full Match,Defending,Total tackles,22,20,Match 4
+Full Match,Defending,Interceptions,10,7,Match 4
+Full Match,Defending,Recoveries,43,36,Match 4
+Full Match,Defending,Clearances,16,16,Match 4
+Full Match,Goalkeeping,Total saves,1,1,Match 4
+Full Match,Goalkeeping,Goals prevented,0.07,-0.67,Match 4
+Full Match,Goalkeeping,Goal kicks,7,6,Match 4
+First Half,Match overview,Ball possession,64%,36%,Match 4
+First Half,Match overview,Expected goals,0.49,0.55,Match 4
+First Half,Match overview,Big chances,2,1,Match 4
+First Half,Match overview,Total shots,4,3,Match 4
+First Half,Match overview,Goalkeeper saves,1,0,Match 4
+First Half,Match overview,Corner kicks,1,2,Match 4
+First Half,Match overview,Passes,279,153,Match 4
+First Half,Match overview,Tackles,11,12,Match 4
+First Half,Match overview,Free kicks,6,4,Match 4
+First Half,Match overview,Yellow cards,0,1,Match 4
+First Half,Shots,Total shots,4,3,Match 4
+First Half,Shots,Shots on target,1,1,Match 4
+First Half,Shots,Hit woodwork,0,0,Match 4
+First Half,Shots,Shots off target,2,2,Match 4
+First Half,Shots,Blocked shots,1,0,Match 4
+First Half,Shots,Shots inside box,4,3,Match 4
+First Half,Shots,Shots outside box,0,0,Match 4
+First Half,Attack,Big chances scored,1,0,Match 4
+First Half,Attack,Big chances missed,1,1,Match 4
+First Half,Attack,Through balls,0,1,Match 4
+First Half,Attack,Fouled in final third,0,0,Match 4
+First Half,Attack,Offsides,2,0,Match 4
+First Half,Passes,Accurate passes,246,122,Match 4
+First Half,Passes,Throw-ins,11,13,Match 4
+First Half,Passes,Final third entries,31,15,Match 4
+First Half,Passes,Long balls,14/21 (67%),8/23 (35%),Match 4
+First Half,Passes,Crosses,2/2 (100%),0/6 (0%),Match 4
+First Half,Duels,Duels,50%,50%,Match 4
+First Half,Duels,Dispossessed,6,8,Match 4
+First Half,Duels,Ground duels,19/39 (49%),20/39 (51%),Match 4
+First Half,Duels,Aerial duels,3/5 (60%),2/5 (40%),Match 4
+First Half,Duels,Dribbles,2/8 (25%),4/7 (57%),Match 4
+First Half,Defending,Tackles won,73%,42%,Match 4
+First Half,Defending,Total tackles,11,12,Match 4
+First Half,Defending,Interceptions,7,4,Match 4
+First Half,Defending,Recoveries,24,17,Match 4
+First Half,Defending,Clearances,7,8,Match 4
+First Half,Goalkeeping,Total saves,1,0,Match 4
+First Half,Goalkeeping,Goal kicks,3,3,Match 4
+Second Half,Match overview,Ball possession,32%,68%,Match 4
+Second Half,Match overview,Expected goals,0.38,1.17,Match 4
+Second Half,Match overview,Big chances,0,2,Match 4
+Second Half,Match overview,Total shots,4,6,Match 4
+Second Half,Match overview,Goalkeeper saves,0,1,Match 4
+Second Half,Match overview,Corner kicks,1,3,Match 4
+Second Half,Match overview,Passes,95,202,Match 4
+Second Half,Match overview,Tackles,11,8,Match 4
+Second Half,Match overview,Free kicks,5,8,Match 4
+Second Half,Match overview,Yellow cards,2,1,Match 4
+Second Half,Shots,Total shots,4,6,Match 4
+Second Half,Shots,Shots on target,1,1,Match 4
+Second Half,Shots,Hit woodwork,0,1,Match 4
+Second Half,Shots,Shots off target,2,3,Match 4
+Second Half,Shots,Blocked shots,1,2,Match 4
+Second Half,Shots,Shots inside box,4,5,Match 4
+Second Half,Shots,Shots outside box,0,1,Match 4
+Second Half,Attack,Big chances scored,0,0,Match 4
+Second Half,Attack,Big chances missed,0,2,Match 4
+Second Half,Attack,Through balls,0,0,Match 4
+Second Half,Attack,Fouled in final third,0,2,Match 4
+Second Half,Attack,Offsides,0,1,Match 4
+Second Half,Passes,Accurate passes,64,167,Match 4
+Second Half,Passes,Throw-ins,8,7,Match 4
+Second Half,Passes,Final third entries,25,23,Match 4
+Second Half,Passes,Long balls,10/25 (40%),13/26 (50%),Match 4
+Second Half,Passes,Crosses,0/3 (0%),6/7 (86%),Match 4
+Second Half,Duels,Duels,41%,59%,Match 4
+Second Half,Duels,Dispossessed,5,3,Match 4
+Second Half,Duels,Ground duels,16/38 (42%),22/38 (58%),Match 4
+Second Half,Duels,Aerial duels,4/11 (36%),7/11 (64%),Match 4
+Second Half,Duels,Dribbles,0/3 (0%),6/14 (43%),Match 4
+Second Half,Defending,Tackles won,64%,88%,Match 4
+Second Half,Defending,Total tackles,11,8,Match 4
+Second Half,Defending,Interceptions,3,3,Match 4
+Second Half,Defending,Recoveries,19,19,Match 4
+Second Half,Defending,Clearances,9,8,Match 4
+Second Half,Goalkeeping,Total saves,0,1,Match 4
+Second Half,Goalkeeping,Goal kicks,4,3,Match 4
+Full Match,Match overview,Ball possession,51%,49%,Match 5
+Full Match,Match overview,Expected goals,2.20,0.78,Match 5
+Full Match,Match overview,Big chances,2,2,Match 5
+Full Match,Match overview,Total shots,11,9,Match 5
+Full Match,Match overview,Goalkeeper saves,2,1,Match 5
+Full Match,Match overview,Corner kicks,2,2,Match 5
+Full Match,Match overview,Fouls,5,15,Match 5
+Full Match,Match overview,Passes,478,458,Match 5
+Full Match,Match overview,Tackles,15,15,Match 5
+Full Match,Match overview,Free kicks,15,5,Match 5
+Full Match,Match overview,Yellow cards,1,3,Match 5
+Full Match,Shots,Total shots,11,9,Match 5
+Full Match,Shots,Shots on target,3,2,Match 5
+Full Match,Shots,Hit woodwork,0,0,Match 5
+Full Match,Shots,Shots off target,6,5,Match 5
+Full Match,Shots,Blocked shots,2,2,Match 5
+Full Match,Shots,Shots inside box,7,5,Match 5
+Full Match,Shots,Shots outside box,4,4,Match 5
+Full Match,Attack,Big chances scored,2,0,Match 5
+Full Match,Attack,Big chances missed,0,2,Match 5
+Full Match,Attack,Through balls,2,1,Match 5
+Full Match,Attack,Touches in penalty area,13,25,Match 5
+Full Match,Attack,Fouled in final third,1,2,Match 5
+Full Match,Attack,Offsides,2,0,Match 5
+Full Match,Passes,Accurate passes,406,395,Match 5
+Full Match,Passes,Throw-ins,14,6,Match 5
+Full Match,Passes,Final third entries,34,40,Match 5
+Full Match,Passes,Final third phase,34/64 (53%),76/104 (73%),Match 5
+Full Match,Passes,Long balls,17/42 (40%),10/32 (31%),Match 5
+Full Match,Passes,Crosses,2/3 (67%),0/9 (0%),Match 5
+Full Match,Duels,Duels,51%,49%,Match 5
+Full Match,Duels,Dispossessed,5,6,Match 5
+Full Match,Duels,Ground duels,34/66 (52%),32/66 (48%),Match 5
+Full Match,Duels,Aerial duels,5/11 (45%),6/11 (55%),Match 5
+Full Match,Duels,Dribbles,5/15 (33%),12/21 (57%),Match 5
+Full Match,Defending,Tackles won,53%,80%,Match 5
+Full Match,Defending,Total tackles,15,15,Match 5
+Full Match,Defending,Interceptions,6,12,Match 5
+Full Match,Defending,Recoveries,49,53,Match 5
+Full Match,Defending,Clearances,12,6,Match 5
+Full Match,Defending,Errors lead to a shot,1,1,Match 5
+Full Match,Goalkeeping,Total saves,2,1,Match 5
+Full Match,Goalkeeping,Goals prevented,0.82,-0.59,Match 5
+Full Match,Goalkeeping,Goal kicks,9,8,Match 5
+First Half,Match overview,Ball possession,60%,40%,Match 5
+First Half,Match overview,Expected goals,0.96,0.37,Match 5
+First Half,Match overview,Big chances,1,1,Match 5
+First Half,Match overview,Total shots,8,4,Match 5
+First Half,Match overview,Goalkeeper saves,1,0,Match 5
+First Half,Match overview,Corner kicks,1,2,Match 5
+First Half,Match overview,Passes,324,216,Match 5
+First Half,Match overview,Tackles,8,7,Match 5
+First Half,Match overview,Free kicks,5,3,Match 5
+First Half,Match overview,Yellow cards,0,1,Match 5
+First Half,Shots,Total shots,8,4,Match 5
+First Half,Shots,Shots on target,1,1,Match 5
+First Half,Shots,Hit woodwork,0,0,Match 5
+First Half,Shots,Shots off target,6,2,Match 5
+First Half,Shots,Blocked shots,1,1,Match 5
+First Half,Shots,Shots inside box,4,3,Match 5
+First Half,Shots,Shots outside box,4,1,Match 5
+First Half,Attack,Big chances scored,1,0,Match 5
+First Half,Attack,Big chances missed,0,1,Match 5
+First Half,Attack,Through balls,1,1,Match 5
+First Half,Attack,Fouled in final third,0,1,Match 5
+First Half,Attack,Offsides,0,0,Match 5
+First Half,Passes,Accurate passes,289,179,Match 5
+First Half,Passes,Throw-ins,7,4,Match 5
+First Half,Passes,Final third entries,20,21,Match 5
+First Half,Passes,Long balls,9/17 (53%),4/18 (22%),Match 5
+First Half,Passes,Crosses,2/2 (100%),0/6 (0%),Match 5
+First Half,Duels,Duels,46%,54%,Match 5
+First Half,Duels,Dispossessed,3,4,Match 5
+First Half,Duels,Ground duels,13/30 (43%),17/30 (57%),Match 5
+First Half,Duels,Aerial duels,3/5 (60%),2/5 (40%),Match 5
+First Half,Duels,Dribbles,1/5 (20%),7/11 (64%),Match 5
+First Half,Defending,Tackles won,50%,71%,Match 5
+First Half,Defending,Total tackles,8,7,Match 5
+First Half,Defending,Interceptions,3,6,Match 5
+First Half,Defending,Recoveries,31,29,Match 5
+First Half,Defending,Clearances,8,3,Match 5
+First Half,Goalkeeping,Total saves,1,0,Match 5
+First Half,Goalkeeping,Goal kicks,4,8,Match 5
+Second Half,Match overview,Ball possession,39%,61%,Match 5
+Second Half,Match overview,Expected goals,1.24,0.41,Match 5
+Second Half,Match overview,Big chances,1,1,Match 5
+Second Half,Match overview,Total shots,3,5,Match 5
+Second Half,Match overview,Goalkeeper saves,1,1,Match 5
+Second Half,Match overview,Corner kicks,1,0,Match 5
+Second Half,Match overview,Passes,154,242,Match 5
+Second Half,Match overview,Tackles,7,8,Match 5
+Second Half,Match overview,Free kicks,10,2,Match 5
+Second Half,Match overview,Yellow cards,1,2,Match 5
+Second Half,Shots,Total shots,3,5,Match 5
+Second Half,Shots,Shots on target,2,1,Match 5
+Second Half,Shots,Hit woodwork,0,0,Match 5
+Second Half,Shots,Shots off target,0,3,Match 5
+Second Half,Shots,Blocked shots,1,1,Match 5
+Second Half,Shots,Shots inside box,3,2,Match 5
+Second Half,Shots,Shots outside box,0,3,Match 5
+Second Half,Attack,Big chances scored,1,0,Match 5
+Second Half,Attack,Big chances missed,0,1,Match 5
+Second Half,Attack,Through balls,1,0,Match 5
+Second Half,Attack,Fouled in final third,1,1,Match 5
+Second Half,Attack,Offsides,2,0,Match 5
+Second Half,Passes,Accurate passes,117,216,Match 5
+Second Half,Passes,Throw-ins,7,2,Match 5
+Second Half,Passes,Final third entries,14,19,Match 5
+Second Half,Passes,Long balls,8/25 (32%),6/14 (43%),Match 5
+Second Half,Passes,Crosses,0/1 (0%),0/3 (0%),Match 5
+Second Half,Duels,Duels,55%,45%,Match 5
+Second Half,Duels,Dispossessed,2,2,Match 5
+Second Half,Duels,Ground duels,21/36 (58%),15/36 (42%),Match 5
+Second Half,Duels,Aerial duels,2/6 (33%),4/6 (67%),Match 5
+Second Half,Duels,Dribbles,4/10 (40%),5/10 (50%),Match 5
+Second Half,Defending,Tackles won,57%,88%,Match 5
+Second Half,Defending,Total tackles,7,8,Match 5
+Second Half,Defending,Interceptions,3,6,Match 5
+Second Half,Defending,Recoveries,18,24,Match 5
+Second Half,Defending,Clearances,4,3,Match 5
+Second Half,Goalkeeping,Total saves,1,1,Match 5
+Second Half,Goalkeeping,Goal kicks,5,0,Match 5
+Full Match,Match overview,Ball possession,45%,55%,Match 6
+Full Match,Match overview,Expected goals,1.04,1.02,Match 6
+Full Match,Match overview,Big chances,1,1,Match 6
+Full Match,Match overview,Total shots,11,19,Match 6
+Full Match,Match overview,Goalkeeper saves,4,5,Match 6
+Full Match,Match overview,Corner kicks,4,7,Match 6
+Full Match,Match overview,Fouls,8,18,Match 6
+Full Match,Match overview,Passes,474,602,Match 6
+Full Match,Match overview,Tackles,18,23,Match 6
+Full Match,Match overview,Free kicks,17,8,Match 6
+Full Match,Match overview,Yellow cards,2,2,Match 6
+Full Match,Shots,Total shots,11,19,Match 6
+Full Match,Shots,Shots on target,6,4,Match 6
+Full Match,Shots,Hit woodwork,0,1,Match 6
+Full Match,Shots,Shots off target,4,8,Match 6
+Full Match,Shots,Blocked shots,1,7,Match 6
+Full Match,Shots,Shots inside box,10,10,Match 6
+Full Match,Shots,Shots outside box,1,9,Match 6
+Full Match,Attack,Big chances scored,1,0,Match 6
+Full Match,Attack,Big chances missed,0,1,Match 6
+Full Match,Attack,Through balls,2,2,Match 6
+Full Match,Attack,Touches in penalty area,29,28,Match 6
+Full Match,Attack,Fouled in final third,1,2,Match 6
+Full Match,Attack,Offsides,2,1,Match 6
+Full Match,Passes,Accurate passes,391,515,Match 6
+Full Match,Passes,Throw-ins,16,19,Match 6
+Full Match,Passes,Final third entries,56,71,Match 6
+Full Match,Passes,Final third phase,70/110 (64%),90/129 (70%),Match 6
+Full Match,Passes,Long balls,27/51 (53%),21/56 (38%),Match 6
+Full Match,Passes,Crosses,8/18 (44%),10/23 (43%),Match 6
+Full Match,Duels,Duels,57%,43%,Match 6
+Full Match,Duels,Dispossessed,12,9,Match 6
+Full Match,Duels,Ground duels,45/86 (52%),41/86 (48%),Match 6
+Full Match,Duels,Aerial duels,23/34 (68%),11/34 (32%),Match 6
+Full Match,Duels,Dribbles,10/21 (48%),10/19 (53%),Match 6
+Full Match,Defending,Tackles won,50%,74%,Match 6
+Full Match,Defending,Total tackles,18,23,Match 6
+Full Match,Defending,Interceptions,12,8,Match 6
+Full Match,Defending,Recoveries,63,65,Match 6
+Full Match,Defending,Clearances,24,15,Match 6
+Full Match,Goalkeeping,Total saves,4,5,Match 6
+Full Match,Goalkeeping,Goals prevented,0.61,0.04,Match 6
+Full Match,Goalkeeping,Big saves,1,1,Match 6
+Full Match,Goalkeeping,High claims,7,1,Match 6
+Full Match,Goalkeeping,Goal kicks,10,11,Match 6
+First Half,Match overview,Ball possession,48%,52%,Match 6
+First Half,Match overview,Expected goals,0.35,0.43,Match 6
+First Half,Match overview,Big chances,0,0,Match 6
+First Half,Match overview,Total shots,3,8,Match 6
+First Half,Match overview,Goalkeeper saves,4,1,Match 6
+First Half,Match overview,Corner kicks,1,2,Match 6
+First Half,Match overview,Passes,231,258,Match 6
+First Half,Match overview,Tackles,5,7,Match 6
+First Half,Match overview,Free kicks,5,2,Match 6
+First Half,Match overview,Yellow cards,0,1,Match 6
+First Half,Shots,Total shots,3,8,Match 6
+First Half,Shots,Shots on target,1,4,Match 6
+First Half,Shots,Hit woodwork,0,1,Match 6
+First Half,Shots,Shots off target,2,2,Match 6
+First Half,Shots,Blocked shots,0,2,Match 6
+First Half,Shots,Shots inside box,3,5,Match 6
+First Half,Shots,Shots outside box,0,3,Match 6
+First Half,Attack,Big chances scored,0,0,Match 6
+First Half,Attack,Big chances missed,0,0,Match 6
+First Half,Attack,Through balls,1,0,Match 6
+First Half,Attack,Fouled in final third,1,0,Match 6
+First Half,Attack,Offsides,0,1,Match 6
+First Half,Passes,Accurate passes,204,234,Match 6
+First Half,Passes,Throw-ins,6,9,Match 6
+First Half,Passes,Final third entries,18,25,Match 6
+First Half,Passes,Long balls,9/17 (53%),9/16 (56%),Match 6
+First Half,Passes,Crosses,3/7 (43%),5/9 (56%),Match 6
+First Half,Duels,Duels,49%,51%,Match 6
+First Half,Duels,Dispossessed,3,3,Match 6
+First Half,Duels,Ground duels,15/29 (52%),14/29 (48%),Match 6
+First Half,Duels,Aerial duels,3/8 (38%),5/8 (63%),Match 6
+First Half,Duels,Dribbles,5/9 (56%),5/7 (71%),Match 6
+First Half,Defending,Tackles won,20%,71%,Match 6
+First Half,Defending,Total tackles,5,7,Match 6
+First Half,Defending,Interceptions,4,3,Match 6
+First Half,Defending,Recoveries,25,23,Match 6
+First Half,Defending,Clearances,7,3,Match 6
+First Half,Goalkeeping,Total saves,4,1,Match 6
+First Half,Goalkeeping,Goal kicks,3,4,Match 6
+Second Half,Match overview,Ball possession,48%,52%,Match 6
+Second Half,Match overview,Expected goals,0.22,0.33,Match 6
+Second Half,Match overview,Big chances,0,1,Match 6
+Second Half,Match overview,Total shots,4,6,Match 6
+Second Half,Match overview,Goalkeeper saves,0,2,Match 6
+Second Half,Match overview,Corner kicks,3,2,Match 6
+Second Half,Match overview,Passes,164,182,Match 6
+Second Half,Match overview,Tackles,5,7,Match 6
+Second Half,Match overview,Free kicks,8,4,Match 6
+Second Half,Match overview,Yellow cards,1,0,Match 6
+Second Half,Shots,Total shots,4,6,Match 6
+Second Half,Shots,Shots on target,2,0,Match 6
+Second Half,Shots,Hit woodwork,0,0,Match 6
+Second Half,Shots,Shots off target,1,4,Match 6
+Second Half,Shots,Blocked shots,1,2,Match 6
+Second Half,Shots,Shots inside box,4,3,Match 6
+Second Half,Shots,Shots outside box,0,3,Match 6
+Second Half,Attack,Big chances scored,0,0,Match 6
+Second Half,Attack,Big chances missed,0,1,Match 6
+Second Half,Attack,Through balls,0,0,Match 6
+Second Half,Attack,Fouled in final third,0,2,Match 6
+Second Half,Attack,Offsides,2,0,Match 6
+Second Half,Passes,Accurate passes,129,151,Match 6
+Second Half,Passes,Throw-ins,6,4,Match 6
+Second Half,Passes,Final third entries,23,26,Match 6
+Second Half,Passes,Long balls,14/21 (67%),3/21 (14%),Match 6
+Second Half,Passes,Crosses,4/8 (50%),4/8 (50%),Match 6
+Second Half,Duels,Duels,65%,35%,Match 6
+Second Half,Duels,Dispossessed,4,2,Match 6
+Second Half,Duels,Ground duels,16/28 (57%),12/28 (43%),Match 6
+Second Half,Duels,Aerial duels,12/15 (80%),3/15 (20%),Match 6
+Second Half,Duels,Dribbles,3/6 (50%),1/4 (25%),Match 6
+Second Half,Defending,Tackles won,40%,71%,Match 6
+Second Half,Defending,Total tackles,5,7,Match 6
+Second Half,Defending,Interceptions,4,4,Match 6
+Second Half,Defending,Recoveries,18,24,Match 6
+Second Half,Defending,Clearances,6,11,Match 6
+Second Half,Goalkeeping,Total saves,0,2,Match 6
+Second Half,Goalkeeping,Goal kicks,5,3,Match 6
+Extra Time 1,Match overview,Ball possession,41%,59%,Match 6
+Extra Time 1,Match overview,Expected goals,0.10,0.05,Match 6
+Extra Time 1,Match overview,Big chances,0,0,Match 6
+Extra Time 1,Match overview,Total shots,2,2,Match 6
+Extra Time 1,Match overview,Goalkeeper saves,0,2,Match 6
+Extra Time 1,Match overview,Corner kicks,0,1,Match 6
+Extra Time 1,Match overview,Passes,53,77,Match 6
+Extra Time 1,Match overview,Tackles,4,7,Match 6
+Extra Time 1,Match overview,Free kicks,3,1,Match 6
+Extra Time 1,Match overview,Yellow cards,0,0,Match 6
+Extra Time 1,Shots,Total shots,2,2,Match 6
+Extra Time 1,Shots,Shots on target,2,0,Match 6
+Extra Time 1,Shots,Hit woodwork,0,0,Match 6
+Extra Time 1,Shots,Shots off target,0,0,Match 6
+Extra Time 1,Shots,Blocked shots,0,2,Match 6
+Extra Time 1,Shots,Shots inside box,2,0,Match 6
+Extra Time 1,Shots,Shots outside box,0,2,Match 6
+Extra Time 1,Attack,Big chances scored,0,0,Match 6
+Extra Time 1,Attack,Big chances missed,0,0,Match 6
+Extra Time 1,Attack,Through balls,0,0,Match 6
+Extra Time 1,Attack,Fouled in final third,0,0,Match 6
+Extra Time 1,Attack,Offsides,0,0,Match 6
+Extra Time 1,Passes,Accurate passes,43,64,Match 6
+Extra Time 1,Passes,Throw-ins,3,2,Match 6
+Extra Time 1,Passes,Final third entries,6,9,Match 6
+Extra Time 1,Passes,Long balls,2/5 (40%),2/6 (33%),Match 6
+Extra Time 1,Passes,Crosses,1/2 (50%),0/4 (0%),Match 6
+Extra Time 1,Duels,Duels,52%,48%,Match 6
+Extra Time 1,Duels,Dispossessed,4,2,Match 6
+Extra Time 1,Duels,Ground duels,9/21 (43%),12/21 (57%),Match 6
+Extra Time 1,Duels,Aerial duels,4/4 (100%),0/4 (0%),Match 6
+Extra Time 1,Duels,Dribbles,2/5 (40%),4/6 (67%),Match 6
+Extra Time 1,Defending,Tackles won,75%,86%,Match 6
+Extra Time 1,Defending,Total tackles,4,7,Match 6
+Extra Time 1,Defending,Interceptions,2,0,Match 6
+Extra Time 1,Defending,Recoveries,10,10,Match 6
+Extra Time 1,Defending,Clearances,2,0,Match 6
+Extra Time 1,Goalkeeping,Total saves,0,2,Match 6
+Extra Time 1,Goalkeeping,Goal kicks,0,2,Match 6
+Extra Time 2,Match overview,Ball possession,23%,77%,Match 6
+Extra Time 2,Match overview,Expected goals,0.36,0.21,Match 6
+Extra Time 2,Match overview,Big chances,1,0,Match 6
+Extra Time 2,Match overview,Total shots,2,3,Match 6
+Extra Time 2,Match overview,Goalkeeper saves,0,0,Match 6
+Extra Time 2,Match overview,Corner kicks,0,2,Match 6
+Extra Time 2,Match overview,Passes,26,85,Match 6
+Extra Time 2,Match overview,Tackles,4,2,Match 6
+Extra Time 2,Match overview,Free kicks,1,1,Match 6
+Extra Time 2,Match overview,Yellow cards,1,1,Match 6
+Extra Time 2,Shots,Total shots,2,3,Match 6
+Extra Time 2,Shots,Shots on target,1,0,Match 6
+Extra Time 2,Shots,Hit woodwork,0,0,Match 6
+Extra Time 2,Shots,Shots off target,1,2,Match 6
+Extra Time 2,Shots,Blocked shots,0,1,Match 6
+Extra Time 2,Shots,Shots inside box,1,2,Match 6
+Extra Time 2,Shots,Shots outside box,1,1,Match 6
+Extra Time 2,Attack,Big chances scored,1,0,Match 6
+Extra Time 2,Attack,Big chances missed,0,0,Match 6
+Extra Time 2,Attack,Through balls,1,2,Match 6
+Extra Time 2,Attack,Fouled in final third,0,0,Match 6
+Extra Time 2,Attack,Offsides,0,0,Match 6
+Extra Time 2,Passes,Accurate passes,15,66,Match 6
+Extra Time 2,Passes,Throw-ins,1,4,Match 6
+Extra Time 2,Passes,Final third entries,9,11,Match 6
+Extra Time 2,Passes,Long balls,2/8 (25%),7/13 (54%),Match 6
+Extra Time 2,Passes,Crosses,0/1 (0%),1/2 (50%),Match 6
+Extra Time 2,Duels,Duels,60%,40%,Match 6
+Extra Time 2,Duels,Dispossessed,1,2,Match 6
+Extra Time 2,Duels,Ground duels,5/8 (63%),3/8 (38%),Match 6
+Extra Time 2,Duels,Aerial duels,4/7 (57%),3/7 (43%),Match 6
+Extra Time 2,Duels,Dribbles,0/1 (0%),0/2 (0%),Match 6
+Extra Time 2,Defending,Tackles won,75%,50%,Match 6
+Extra Time 2,Defending,Total tackles,4,2,Match 6
+Extra Time 2,Defending,Interceptions,2,1,Match 6
+Extra Time 2,Defending,Recoveries,10,8,Match 6
+Extra Time 2,Defending,Clearances,9,1,Match 6
+Extra Time 2,Goalkeeping,Total saves,0,0,Match 6
+Extra Time 2,Goalkeeping,Goal kicks,2,2,Match 6
